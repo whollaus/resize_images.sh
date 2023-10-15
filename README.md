@@ -12,7 +12,7 @@ Resizes all images in the specified directory incl. subdirectories
 
 ## Screenshot
 
-![Demo Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/whollaus/resize_images.sh/blob/main/SCR-20231015-oqvq.png))
+![Demo Screenshot](https://github.com/whollaus/resize_images.sh/blob/main/SCR-20231015-oqvq.png)
 
 ## Options:
 
