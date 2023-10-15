@@ -10,6 +10,10 @@ Resizes all images in the specified directory incl. subdirectories
 - Small automatic image image enhancements (-filter Lanczos2Sharp -unsharp 1.5x1+0.7+0.02 -brightness-contrast 1x5)
 - Supported file formats: jpg, png, tif, heif, heic, webp
 
+## Screenshot
+
+![Demo Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/whollaus/resize_images.sh/blob/main/SCR-20231015-oqvq.png))
+
 ## Options:
 
  		-h, --help           Display this help message.
@@ -45,6 +49,10 @@ brew install imagemagick
 ```bash
 resize_images.sh -s ./originals -d ./resized -m 800 -q 80
 ```
+
+## Roadmap
+
+Nothing planned
 
 ## License:
 
